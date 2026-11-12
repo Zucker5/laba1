@@ -1,0 +1,24 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.sln.docstates
+
+# CMake
+build/
+cmake-build-*/
+
+# Compiled files
+*.obj
+*.o
+*.exe
+*.dll
+*.lib
+*.pdb
+*.ipch
+
+# Build configurations
+Debug/
+Release/
+x64/
+x86/
